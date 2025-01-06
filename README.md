@@ -1,2 +1,2 @@
 # Ottoautomaatti
- Ohjelmointi 1 kurssin lopputyö
+ Programming 1 course final assignment
