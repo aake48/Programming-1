@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670524044 source:c:\users\aakej\desktop\ohjelmointi 1\ottoautomaatti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1670859123 source:c:\users\aake\desktop\ottoautomaatti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
